@@ -1,12 +1,12 @@
-# 🩺 InovaSaúde - Módulo Público em Python
+# InovaSaúde - Módulo Público em Python
 
 Este repositório contém os principais arquivos em **Python** utilizados no projeto **InovaSaúde**, um sistema moderno de gestão em saúde com painel administrativo, autenticação de usuários e renderização dinâmica de páginas.
 
-> ⚠️ Este repositório é uma **versão pública e parcial** com fins demonstrativos. O projeto completo encontra-se em ambiente privado.
+> ⚠Este repositório é uma **versão pública e parcial** com fins demonstrativos. O projeto completo encontra-se em ambiente privado.
 
 ---
 
-## 📂 Estrutura de Arquivos
+## Estrutura de Arquivos
 
 ```text
 inovasaude-public-python/
@@ -22,13 +22,13 @@ inovasaude-public-python/
 
 ---
 
-## 🚀 Funcionalidades Demonstradas
+## Funcionalidades Demonstradas
 
-- 🔐 Autenticação via sessão
-- 🧭 Roteamento modular com FastAPI
-- 🧠 Templates com Jinja2
-- 🔄 Redirecionamento baseado em login
-- 📦 Organização limpa de código (routes, utils, templates)
+- Autenticação via sessão
+- Roteamento modular com FastAPI
+- Templates com Jinja2
+- Redirecionamento baseado em login
+- Organização limpa de código (routes, utils, templates)
 
 ---
 
@@ -42,7 +42,7 @@ inovasaude-public-python/
 
 ---
 
-## 🧠 Sobre o Projeto
+## Sobre o Projeto
 
 O **InovaSaúde** é um projeto voltado para **digitalização de processos em saúde**, com foco em:
 
@@ -52,20 +52,20 @@ O **InovaSaúde** é um projeto voltado para **digitalização de processos em s
 - Interface amigável e responsiva
 - Integração com banco de dados relacional (PostgreSQL)
 
-🔐 O repositório privado contém a aplicação completa, incluindo front-end, banco de dados e painel de gestão. Esta versão pública visa apenas **demonstrar as tecnologias e boas práticas de organização em Python**.
+O repositório privado contém a aplicação completa, incluindo front-end, banco de dados e painel de gestão. Esta versão pública visa apenas **demonstrar as tecnologias e boas práticas de organização em Python**.
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 **Raul Gabriel**  
-📍 Campo Grande - MS  
-💼 Desenvolvedor e idealizador do projeto InovaSaúde  
-📬 LinkedIn: [Raul Gabriel](https://www.linkedin.com/in/raul-gabriel/)
+Campo Grande - MS  
+Desenvolvedor e idealizador do projeto InovaSaúde  
+LinkedIn: [Raul Gabriel](https://www.linkedin.com/in/raul-gabriel/)
 
 ---
 
-## 📄 Licença
+## Licença
 
 Este projeto está licenciado sob os termos da [MIT License](LICENSE).  
 Você pode copiar, modificar e redistribuir este projeto com atribuição.
